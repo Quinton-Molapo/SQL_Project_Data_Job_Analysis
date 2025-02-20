@@ -5,7 +5,7 @@
 
 ---
 # Background
-
+### Motivated by the need to navigate the data analyst job market more efficiently, this project was created to identify high-paying, in-demand skills and help others streamline their job search for the best opportunities.the data is from https://lukebarousse.com/sql.
 ### The quest to finding data-driven insights into the data analyst job market was through writting queries that provide answers to this questions:
 
 
