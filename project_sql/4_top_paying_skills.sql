@@ -1,4 +1,4 @@
-a/*
+/*
 What the top skills based on salary?
 -look at average salary associated with each skill for data analyst positions
 -focuses on roles with specified salaries, regardless of location

@@ -1,7 +1,7 @@
 /*
 Question: What are the most in-demand skills for data analysts?
 -join job postings to inner join table similar to query 2
--identify the top 5 in_demand   skills for a data analyst.
+-identify the top 5 in_demand skills for a data analyst.
 -focus on all job postings.
 -why? retrieves the top 5 skills with the highiest demand in the job market,
     providing insights into the most valuable skills for job seekers.
